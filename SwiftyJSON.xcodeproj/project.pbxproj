@@ -433,6 +433,9 @@
 						LastSwiftMigration = 0800;
 						TestTargetID = 2E4FEFDA19575BE100351305;
 					};
+					7236B4EC1BAC14150020529B = {
+						LastSwiftMigration = 0800;
+					};
 					9C7DFC5A1A9102BD005AA3F7 = {
 						CreatedOnToolsVersion = 6.1.1;
 					};
@@ -441,6 +444,7 @@
 					};
 					A8580F731BCF5C5B00DA927B = {
 						CreatedOnToolsVersion = 7.1;
+						LastSwiftMigration = 0800;
 					};
 				};
 			};
@@ -819,6 +823,7 @@
 				PRODUCT_NAME = SwiftyJSON;
 				SDKROOT = appletvos;
 				SKIP_INSTALL = YES;
+				SWIFT_VERSION = 2.3;
 				TARGETED_DEVICE_FAMILY = 3;
 				TVOS_DEPLOYMENT_TARGET = 9.0;
 			};
@@ -841,6 +846,7 @@
 				PRODUCT_NAME = SwiftyJSON;
 				SDKROOT = appletvos;
 				SKIP_INSTALL = YES;
+				SWIFT_VERSION = 2.3;
 				TARGETED_DEVICE_FAMILY = 3;
 				TVOS_DEPLOYMENT_TARGET = 9.0;
 			};
@@ -941,6 +947,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "com.tangplin.SwiftyJSON-tvOS-Tests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = appletvos;
+				SWIFT_VERSION = 2.3;
 				TVOS_DEPLOYMENT_TARGET = 9.0;
 			};
 			name = Debug;
@@ -957,6 +964,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "com.tangplin.SwiftyJSON-tvOS-Tests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = appletvos;
+				SWIFT_VERSION = 2.3;
 				TVOS_DEPLOYMENT_TARGET = 9.0;
 			};
 			name = Release;
